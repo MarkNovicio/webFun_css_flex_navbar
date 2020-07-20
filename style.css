@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+   }
+
+.center-item{
+    height:50px;
+    width:50px;
+    background-color: tan;
+}
+.center-box{
+    height: 250px;
+    background-color: #441DAF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dojo-navbar{
+    display:flex;
+    justify-content: flex-start;
+    align-items:center;
+    margin-top: 10px;
+    background-color: #ACCDE3;
+    height: 100px;
+}
+
+h1{
+    color:#fff;
+}
+
+li a{
+    color: #fff;
+    text-decoration:none;
+    
+}
+
+ul li{
+    list-style-type: none;
+    margin: 0px 20px;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    margin-left: 100px;
+}
+
+img{
+    height: 50px;
+}
